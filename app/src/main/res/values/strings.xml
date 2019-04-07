@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Astroniya Consultant App</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="click_here_to_register">Click Here To Register</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login">Click Here To Login</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="write_a_message">Write a message…</string>
+</resources>
